@@ -1,10 +1,15 @@
 # welcome bot: A Probot App
 
 This bot will welcome people
+It will do stuff
+I don't know what to write here 
 
 ## What it does
 
 -Welcomes People
+-Easy to use
+-Great for working well
+-Functions 
 
 ## Getting started
 
